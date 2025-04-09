@@ -21,7 +21,7 @@ I am a Frontend Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTG
     <h3>Langs</h3>
     <img src="https://skillicons.dev/icons?i=javascript,ts,php,mysql&perline=7" />
     <h3>Frameworks / Tools</h3>
-    <img src="https://skillicons.dev/icons?i=linux,react,vue,nodejs,electron,docker,bootstrap,ps,figma,git&perline=7" />
+    <img src="https://skillicons.dev/icons?i=linux,react,vue,nodejs,,bootstrap,ps,figma,git&perline=7" />
     <h3>Software</h3>
     <img src="https://skillicons.dev/icons?i=vscode,visualstudio&perline=7" />
     <br>
