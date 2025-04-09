@@ -1,7 +1,3 @@
-<div id="header" align="center">
-  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExcHc2ZGxmYXQ0anF0bjJ2cHQ2NjV6M3IzN2J0MGcwM2JmcTEwZnlsbiZlcD12MV9naWZzX3NlYXJjaCZjdD1n/bGgsc5mWoryfgKBx1u/giphy.gif" width="100"/>
-</div>
-<p align="center"><img src="https://komarev.com/ghpvc/?username=deathxdder&style=flat-square&color=blueviolet" alt=""></p>
 <h1 align="center">
   hey there
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
