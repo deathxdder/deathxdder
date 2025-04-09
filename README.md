@@ -30,8 +30,9 @@ I am a Frontend Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTG
 
 ---
 
-### 🔥 &nbsp; My Stats :
-
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=deathxdder&show_icons=true&theme=dark)
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=donut-vertical&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
+<details align="left">
+  <summary><h2><b>📚 My stats</b></h2></summary>
+  ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=deathxdder&show_icons=true&theme=dark)
+  
+  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=donut-vertical&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
+</details>
