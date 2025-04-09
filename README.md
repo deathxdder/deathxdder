@@ -6,10 +6,10 @@
   <img src="https://media.giphy.com/media/dWesBcTLavkZuG35MI/giphy.gif" width="600" height="300"/>
 </div>
 
-### &nbsp;About me:
+## About me:
+[![Telegram](https://img.shields.io/badge/-Telegram-2CA5E0?style=flat&logo=telegram&logoColor=white)](https://tlgg.ru/deathxdder)
 
----
-I am a Frontend Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from Belarus.
+I am a Frontend Developer from Belarus.
 
 - 🔭 I’m working as a Frontend Developer, building user interfaces for web applications.
 - 🌱 Exploring new technologies and frameworks to stay up-to-date with modern web development trends.
