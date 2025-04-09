@@ -6,14 +6,14 @@
   <img src="https://media.giphy.com/media/dWesBcTLavkZuG35MI/giphy.gif" width="600" height="300"/>
 </div>
 
-### 👨‍💻 &nbsp;About me:
+### &nbsp;About me:
+
+---
 I am a Frontend Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from Belarus.
 
 - 🔭 I’m working as a Frontend Developer, building user interfaces for web applications.
 - 🌱 Exploring new technologies and frameworks to stay up-to-date with modern web development trends.
 - ⚡ In my free time, I solve coding challenges on platforms like Codewars or LeetCode and read tech articles and documentation.
-
----
 
 <details align="left">
   <summary><h2><b>📚 My stack</b></h2></summary>
@@ -29,7 +29,7 @@ I am a Frontend Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTG
 </details>
 
 <details align="left">
-  <summary><h2><b>📚 My stats</b></h2></summary>
+  <summary><h2><b>👨‍💻 My stats</b></h2></summary>
   
   ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=deathxdder&show_icons=true&theme=dark)
   
