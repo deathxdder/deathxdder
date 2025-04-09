@@ -28,8 +28,6 @@ I am a Frontend Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTG
   </p>
 </details>
 
----
-
 <details align="left">
   <summary><h2><b>📚 My stats</b></h2></summary>
   
