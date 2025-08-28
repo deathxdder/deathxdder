@@ -18,9 +18,9 @@ I am a Frontend Developer from Belarus.
   <summary><h2><b>📚 My stack</b></h2></summary>
   <p>
     <h3>Langs</h3>
-    <img src="https://skillicons.dev/icons?i=javascript,py,ts,php,mysql&perline=7" />
+    <img src="https://skillicons.dev/icons?i=javascript,py,ts,,mysql&perline=7" />
     <h3>Frameworks / Tools</h3>
-    <img src="https://skillicons.dev/icons?i=linux,react,vue,nodejs,fastapi,bootstrap,ps,figma,git&perline=7" />
+    <img src="https://skillicons.dev/icons?i=linux,react,vue,nodejs,fastapi,django,tailwind,sass,postgres,redux,ps,figma,git&perline=7" />
     <h3>Software</h3>
     <img src="https://skillicons.dev/icons?i=vscode,visualstudio&perline=7" />
     <br>
